@@ -1,0 +1,12 @@
+title{
+    color: salmon;
+}
+
+title{
+    padding: 8px 16px;
+      border-radius: 4px;
+      color: white;
+      background-color: #8d68e8;
+      text-decoration: none;
+      font-family: Arial, Helvetica, sans-serif;
+}
